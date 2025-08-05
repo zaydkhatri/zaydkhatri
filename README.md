@@ -56,6 +56,7 @@
 
 ---
 
+<!--
 <h3 align="left">📊 GitHub Stats</h3>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaydkhatri&layout=compact&theme=tokyonight" />
@@ -66,3 +67,4 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaydkhatri&theme=tokyonight" />
 </p>
+-->
